@@ -15,7 +15,6 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 cities = CITY_DATA.keys()
 
-lessons = ["Why Python Programming", "Data Types and Operators", "Control Flow", "Functions", "Scripting"]
 
 def my_enumerate(iterable, start=0):
     # Implementation of a generator function here
