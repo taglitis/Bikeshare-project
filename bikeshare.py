@@ -17,6 +17,9 @@ cities = CITY_DATA.keys()
 
 lessons = ["Why Python Programming", "Data Types and Operators", "Control Flow", "Functions", "Scripting"]
 
+#to show a list of something to the user to chose from:
+# 1. smth1
+# 2. smth2
 def my_enumerate(iterable, start=0):
     # Implementation of a generator function here
     count = start
