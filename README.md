@@ -5,7 +5,9 @@
 Bikeshare project 
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare project was developed for Programming for Data Scince class at Udacity university. Python script
+reads data from .csv files for either Washington, New York city or Chicago. Using interactive interface a user
+can choose the city and define some other parametrs to extract statistical information from the data.
 
 ### Files used
 Include the files used
