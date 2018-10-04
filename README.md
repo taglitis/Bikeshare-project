@@ -10,7 +10,8 @@ reads data from .csv files for either Washington, New York city or Chicago. Usin
 can choose the city and define some other parametrs to extract statistical information from the data.
 
 ### Files used
-Include the files used
+Bikeshare.py
+readme.txt
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
