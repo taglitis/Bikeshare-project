@@ -297,8 +297,9 @@ def main():
         time_stats(df, month, day, city)
         station_stats(df)
         trip_duration_stats(df)
-        user_stats(df, city)
-        f = Image.open("hist_week_day_time.png").show()
+        ser_stats(df, city)
+        if day.lower() == 'all':
+            f = Image.open("hist_week_day_time.png").show()
         f = Image.open("hist_start_time.png").show()
         saying_bye()
         restart = input('\nWould you like to restart? Enter yes or no.\n')
